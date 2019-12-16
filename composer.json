@@ -1,0 +1,23 @@
+{
+    "name": "enda/alipay-sdk-php",
+    "description": "alipay sdk for composer,update for alipay",
+    "type": "library",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "authors": [
+        {
+            "name": "Enda",
+            "email": "endachao@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/AopCertification.php",
+            "src/AopEncrypt.php"
+        ],
+        "psr-4": {
+            "Alipay\\": "src/"
+        }
+    }
+}
