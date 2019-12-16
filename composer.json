@@ -2,6 +2,8 @@
     "name": "enda/alipay-sdk-php",
     "description": "alipay sdk for composer,update for alipay",
     "type": "library",
+    "license": "Apache-2.0",
+    "keywords": [ "alipay","sdk" ],
     "require": {
         "php": ">=5.5.0"
     },
