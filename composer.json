@@ -11,6 +11,7 @@
             "email": "endachao@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "files": [
             "src/AopCertification.php",
